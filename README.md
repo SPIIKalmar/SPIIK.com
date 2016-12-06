@@ -26,3 +26,5 @@ Krav för SPIIK.com
 * Sida för evenmang
 * Presentera utbildningarna
 * Snyggare länk till Linnestudenterna
+* Kalender för event
+  * Förslagsviss google calender
