@@ -18,13 +18,15 @@ Krav för SPIIK.com
 * Karta, adress och öppettider till kontoret
 * Anslagstavla/sida för jobberbjudanden
 * Bilder och info om alla styrelsemedlemmar, och dessas poster
-* Sida för sexmästeriet med samma info som styrelsen
+* Information om sexmästeriet (samma info som styrelsen)
+* Information om Valberedningen (samma info som styrelsen)
+* Information om Revisorer (samma info som styrelsen)
 * Sida för att visa upp projekt som studenter gjort, och ett arkiv för gamla sådana
 * Info om ovvar, mössor och dylikt
 * Dokument såsom stadgar, rutiner och protokoll
 * Info om medlemskap och möjlighet att teckna sådant via hemsidan
 * Sida för evenmang
 * Presentera utbildningarna
-* Snyggare länk till Linnestudenterna
+* Snyggare placering av samarbetspartners (ex Linnéstudenterna)
 * Kalender för event
   * Förslagsviss google calender
