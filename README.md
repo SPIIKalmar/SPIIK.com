@@ -17,7 +17,7 @@ Krav för SPIIK.com
 * Kontaktformulär till styrelsen@spiik.com
 * Karta, adress och öppettider till kontoret
 * Anslagstavla/sida för jobberbjudanden
-* Bilder och info om alla styrelsemedlemmar
+* Bilder och info om alla styrelsemedlemmar, och dessas poster
 * Sida för sexmästeriet med samma info som styrelsen
 * Sida för att visa upp projekt som studenter gjort, och ett arkiv för gamla sådana
 * Info om ovvar, mössor och dylikt
